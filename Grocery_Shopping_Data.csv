@@ -1,0 +1,101 @@
+﻿Store,Product,Size(OZ),Price,Date,Cost Per Ounce
+Schnucks,Brown Rice,16,1.19,1/8/2024,$0.07 
+Schnucks,Lentils,16,1.50,1/8/2024,$0.09 
+Schnucks,Garbanzo Beans,16,1.49,1/8/2024,$0.09 
+Schnucks,50/50 Salad Blend,5,2.50,1/8/2024,$0.50 
+Schnucks,Soy Milk,64,3.34,1/8/2024,$0.05 
+Schnucks,Tofu,14,3.89,1/8/2024,$0.28 
+Schnucks,Tahini,16,7.99,1/8/2024,$0.50 
+Schnucks,Peanut Butter,16,6.39,1/8/2024,$0.40 
+Schnucks,Cauliflower,16,1.59,1/8/2024,$0.10 
+Schnucks,Pickled Beats,16,1.69,1/8/2024,$0.11 
+Schnucks,Chia Seeds,12,4.99,1/8/2024,$0.42 
+Schnucks,Kalamata Olives,6.5,5.24,1/8/2024,$0.81 
+Schnucks,Corn,12,1.00,1/8/2024,$0.08 
+Schnucks,Plant Butter,10,4.24,1/8/2024,$0.42 
+Schnucks,Mixed Vegetables,10,1.19,1/8/2024,$0.12 
+Schnucks,Red Potatoes,80,4.99,1/8/2024,$0.06 
+Schnucks,Coconut Milk,64,4.89,1/8/2024,$0.08 
+Schnucks,Organic Oats,18,4.99,1/8/2024,$0.28 
+Schnucks,Ezekial Bread,24,8.29,1/8/2024,$0.35 
+Schnucks,Red Onions,16,1.49,1/8/2024,$0.09 
+Walmart,Garbanzo Beans,80,19.69,1/8/2024,$0.25 
+Walmart,Brown Rice,16,0.88,1/8/2024,$0.06 
+Walmart,Lentils,64,5.38,1/8/2024,$0.08 
+Walmart,50/50 Salad Mix,16,4.98,1/8/2024,$0.31 
+Walmart,Soy Milk,64,4.98,1/8/2024,$0.08 
+Walmart,Tofu,14,2.98,1/8/2024,$0.21 
+Walmart,Tahini,16,5.18,1/8/2024,$0.32 
+Walmart,Peanut Butter,16,4.47,1/8/2024,$0.28 
+Walmart,Cauliflower,12,2.57,1/8/2024,$0.21 
+Walmart,Pickled Beats,32,13.99,1/8/2024,$0.44 
+Walmart,Chia Seeds,32,10.74,1/8/2024,$0.34 
+Walmart,Kalamata Olives,9.5,5.26,1/8/2024,$0.55 
+Walmart,Corn,15,0.64,1/8/2024,$0.04 
+Walmart,Plant Butter,15,3.98,1/8/2024,$0.27 
+Walmart,Mixed Vegetables,20,2.54,1/8/2024,$0.13 
+Walmart,Red Potatoes,48,4.23,1/8/2024,$0.09 
+Walmart,Coconut Milk,32,12.63,1/8/2024,$0.39 
+Walmart,Organic Oats,32,6.28,1/8/2024,$0.20 
+Walmart,Ezekial Bread,24,7.53,1/8/2024,$0.31 
+Walmart,Red Onions,48,3.58,1/8/2024,$0.07 
+Target,Garbanzo Beans,15.5,0.85,1/8/2024,$0.05 
+Target,Brown Rice,32,1.89,1/8/2024,$0.06 
+Target,Lentils,16,1.59,1/8/2024,$0.10 
+Target,50/50 Salad Mix,16,5.29,1/8/2024,$0.33 
+Target,Soy Milk,64,3.99,1/8/2024,$0.06 
+Target,Tofu,10,4.99,1/8/2024,$0.50 
+Target,Tahini,14,13.81,1/8/2024,$0.99 
+Target,Peanut Butter,16,4.39,1/8/2024,$0.27 
+Target,Cauliflower,12,2.59,1/8/2024,$0.22 
+Target,Pickled Beats,16,1.99,1/8/2024,$0.12 
+Target,Chia Seeds,32,14.99,1/8/2024,$0.47 
+Target,Kalamata Olives,6.5,3.69,1/8/2024,$0.57 
+Target,Corn,15.25,0.69,1/8/2024,$0.05 
+Target,Plant Butter,14,4.59,1/8/2024,$0.33 
+Target,Mixed Vegetables,12,1.99,1/8/2024,$0.17 
+Target,Red Potatoes,48,2.99,1/8/2024,$0.06 
+Target,Coconut Milk,32,1.99,1/8/2024,$0.06 
+Target,Organic Oats,32,7.59,1/8/2024,$0.24 
+Target,Ezekial Bread,24,7.99,1/8/2024,$0.33 
+Target,Red Onions,48,2.49,1/8/2024,$0.05 
+Fresh Thyme,Brown Rice,16,2.49,1/8/2024,$0.16 
+Fresh Thyme,Lentils,16,2.49,1/8/2024,$0.16 
+Fresh Thyme,Garbanzo Beans,15,0.99,1/8/2024,$0.07 
+Fresh Thyme,50/50 Salad Blend,5,3.50,1/8/2024,$0.70 
+Fresh Thyme,Soy Milk,32,5.29,1/8/2024,$0.17 
+Fresh Thyme,Tofu,14,2.50,1/8/2024,$0.18 
+Fresh Thyme,Tahini,16,11.99,1/8/2024,$0.75 
+Fresh Thyme,Peanut Butter,16,6.79,1/8/2024,$0.42 
+Fresh Thyme,Cauliflower,10,3.99,1/8/2024,$0.40 
+Fresh Thyme,Pickled Beats,8,3.99,1/8/2024,$0.50 
+Fresh Thyme,Chia Seeds,6,4.68,1/8/2024,$0.78 
+Fresh Thyme,Kalamata Olives,6.7,5.69,1/8/2024,$0.85 
+Fresh Thyme,Corn,10,3.49,1/8/2024,$0.35 
+Fresh Thyme,Plant Butter,8.8,5.99,1/8/2024,$0.68 
+Fresh Thyme,Mixed Vegetables,10,1.99,1/8/2024,$0.20 
+Fresh Thyme,Red Potatoes,80,3.99,1/8/2024,$0.05 
+Fresh Thyme,Coconut Milk,13.5,2.29,1/8/2024,$0.17 
+Fresh Thyme,Organic Oats,16,1.99,1/8/2024,$0.12 
+Fresh Thyme,Ezekial Bread,27,7.49,1/8/2024,$0.28 
+Fresh Thyme,Red Onions,16,1.49,1/8/2024,$0.09 
+Kroger,Brown Rice,32,1.79,1/8/2024,$0.06 
+Kroger,Lentils,16,2.29,1/8/2024,$0.14 
+Kroger,Garbanzo Beans,60,4.49,1/8/2024,$0.07 
+Kroger,50/50 Salad Blend,16,5.49,1/8/2024,$0.34 
+Kroger,Soy Milk,64,2.79,1/8/2024,$0.04 
+Kroger,Tofu,14,1.67,1/8/2024,$0.12 
+Kroger,Tahini,16,6.49,1/8/2024,$0.41 
+Kroger,Peanut Butter,26,6.79,1/8/2024,$0.26 
+Kroger,Cauliflower,24,6.49,1/8/2024,$0.27 
+Kroger,Pickled Beats,16,1.99,1/8/2024,$0.12 
+Kroger,Chia Seeds,12,5.49,1/8/2024,$0.46 
+Kroger,Kalamata Olives,6,3.87,1/8/2024,$0.65 
+Kroger,Corn,12,1.25,1/8/2024,$0.10 
+Kroger,Plant Butter,8,5.99,1/8/2024,$0.75 
+Kroger,Mixed Vegetables,12,1.25,1/8/2024,$0.10 
+Kroger,Red Potatoes,80,5.49,1/8/2024,$0.07 
+Kroger,Coconut Milk,13.5,1.99,1/8/2024,$0.15 
+Kroger,Organic Oats,16,4.09,1/8/2024,$0.26 
+Kroger,Ezekial Bread,24,6.99,1/8/2024,$0.29 
+Kroger,Red Onions,32,2.69,1/8/2024,$0.08 
